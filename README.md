@@ -8,7 +8,7 @@ This project contains automation test scripts for basic user flows on the [Magen
 - User **Signup**
 - User **Login**
 - **Logout**
-- **Change Password** (coming soon)
+- **Change Password** 
 
 ---
 
