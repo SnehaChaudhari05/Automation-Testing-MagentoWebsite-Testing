@@ -1,4 +1,4 @@
-#Magento Website - Automation Testing Framework
+# Magento Website - Automation Testing Framework
 
 This project contains automation test scripts for basic user flows on the [Magento Practice Website](https://magento.softwaretestingboard.com/), built using **Java + Selenium + TestNG** following the **Page Object Model (POM)** design pattern.
 
